@@ -1,8 +1,3 @@
-#Name: Karanjeet Singh
-#UID: 1001703147
-#LoginId:Kxs3147
-
-
 import time
 
 version = '1.0'
